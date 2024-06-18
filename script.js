@@ -4,7 +4,7 @@ let songlist =
     'No Fear',
     'TiK ToK',
     'Espresso',
-    'Moon Undah Water'
+    'Birds of a Feather'
   ];
 
 let index = 0;
